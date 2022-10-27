@@ -3,3 +3,4 @@ b- Si, si Alfa agrega un archivo el resto pueden verlo y editarlo.
 
 c- Si, si BETA sube un archivo sus compañeros pueden verlo.
 d- En nuestro equipo nos comunicamos mediante Discord y Whatsapp.
+e- La mejor manera de comunicarnos dentro de github es a traves de projects.
