@@ -1,0 +1,2 @@
+a- Si, Alfa puede ver los datos que cargaron sus compañeros.
+b- Si, si Alfa agrega un archivo el resto pueden verlo y editarlo.
