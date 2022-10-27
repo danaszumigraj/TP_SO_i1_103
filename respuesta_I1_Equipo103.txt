@@ -1,2 +1,5 @@
 a- Si, Alfa puede ver los datos que cargaron sus compañeros.
 b- Si, si Alfa agrega un archivo el resto pueden verlo y editarlo.
+
+c- Si, si BETA sube un archivo sus compañeros pueden verlo.
+d- En nuestro equipo nos comunicamos mediante Discord y Whatsapp.
